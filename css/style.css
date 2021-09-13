@@ -18,13 +18,12 @@ body {
 .single-product {
   padding: 10px;
   transition: 0.6s;
-  background-color:rgba(15, 14, 14, 0.658);
   margin-right: 10px;
 }
 .single-product:hover {
   box-shadow: 4px 4px 7px gray;
   border-radius: 10px;
-  border: 1px solid cyan;
+  border: 1px solid rgb(17, 17, 17);
 }
 .product-image {
   width: 150px;
