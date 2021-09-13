@@ -18,7 +18,7 @@ body {
 .single-product {
   padding: 10px;
   transition: 0.6s;
-  background-color: darkolivegreen;
+  background-color:rgba(15, 14, 14, 0.658);
   margin-right: 10px;
 }
 .single-product:hover {
